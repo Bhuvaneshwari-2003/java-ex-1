@@ -1,0 +1,13 @@
+class S1{
+    public static void main(String args[]){
+        boolean rain = true;
+        if(rain)
+        {
+            System.out.println("I am a robot");
+
+        }
+        else{
+            System.out.println("I am not a robot");
+        }
+    }
+}
